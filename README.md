@@ -22,4 +22,4 @@ and:
 
 **Wiring diagram:**
 
-![](scema.png)
+![](lora_to_pi.png)
